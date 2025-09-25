@@ -1,0 +1,11 @@
+# General NLP Project Requirements
+# It is recommended to install project-specific dependencies from their respective `requirements.txt` files.
+
+pandas
+numpy
+scikit-learn
+matplotlib
+seaborn
+jupyter
+gensim
+nltk
